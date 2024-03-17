@@ -1,0 +1,15 @@
+C:\Users\JEAG\Documents\IES_MONTILIVI\MP03\botiga_i_ciistella_POO\Botiga_i_Cistella_Poo\BotigaCistellaPoo\BotigaCistellaPoo\bin\Debug\net7.0\BotigaCistellaPoo.exe
+C:\Users\JEAG\Documents\IES_MONTILIVI\MP03\botiga_i_ciistella_POO\Botiga_i_Cistella_Poo\BotigaCistellaPoo\BotigaCistellaPoo\bin\Debug\net7.0\BotigaCistellaPoo.deps.json
+C:\Users\JEAG\Documents\IES_MONTILIVI\MP03\botiga_i_ciistella_POO\Botiga_i_Cistella_Poo\BotigaCistellaPoo\BotigaCistellaPoo\bin\Debug\net7.0\BotigaCistellaPoo.runtimeconfig.json
+C:\Users\JEAG\Documents\IES_MONTILIVI\MP03\botiga_i_ciistella_POO\Botiga_i_Cistella_Poo\BotigaCistellaPoo\BotigaCistellaPoo\bin\Debug\net7.0\BotigaCistellaPoo.dll
+C:\Users\JEAG\Documents\IES_MONTILIVI\MP03\botiga_i_ciistella_POO\Botiga_i_Cistella_Poo\BotigaCistellaPoo\BotigaCistellaPoo\bin\Debug\net7.0\BotigaCistellaPoo.pdb
+C:\Users\JEAG\Documents\IES_MONTILIVI\MP03\botiga_i_ciistella_POO\Botiga_i_Cistella_Poo\BotigaCistellaPoo\BotigaCistellaPoo\obj\Debug\net7.0\BotigaCistellaPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JEAG\Documents\IES_MONTILIVI\MP03\botiga_i_ciistella_POO\Botiga_i_Cistella_Poo\BotigaCistellaPoo\BotigaCistellaPoo\obj\Debug\net7.0\BotigaCistellaPoo.AssemblyInfoInputs.cache
+C:\Users\JEAG\Documents\IES_MONTILIVI\MP03\botiga_i_ciistella_POO\Botiga_i_Cistella_Poo\BotigaCistellaPoo\BotigaCistellaPoo\obj\Debug\net7.0\BotigaCistellaPoo.AssemblyInfo.cs
+C:\Users\JEAG\Documents\IES_MONTILIVI\MP03\botiga_i_ciistella_POO\Botiga_i_Cistella_Poo\BotigaCistellaPoo\BotigaCistellaPoo\obj\Debug\net7.0\BotigaCistellaPoo.csproj.CoreCompileInputs.cache
+C:\Users\JEAG\Documents\IES_MONTILIVI\MP03\botiga_i_ciistella_POO\Botiga_i_Cistella_Poo\BotigaCistellaPoo\BotigaCistellaPoo\obj\Debug\net7.0\BotigaCistellaPoo.sourcelink.json
+C:\Users\JEAG\Documents\IES_MONTILIVI\MP03\botiga_i_ciistella_POO\Botiga_i_Cistella_Poo\BotigaCistellaPoo\BotigaCistellaPoo\obj\Debug\net7.0\BotigaCistellaPoo.dll
+C:\Users\JEAG\Documents\IES_MONTILIVI\MP03\botiga_i_ciistella_POO\Botiga_i_Cistella_Poo\BotigaCistellaPoo\BotigaCistellaPoo\obj\Debug\net7.0\refint\BotigaCistellaPoo.dll
+C:\Users\JEAG\Documents\IES_MONTILIVI\MP03\botiga_i_ciistella_POO\Botiga_i_Cistella_Poo\BotigaCistellaPoo\BotigaCistellaPoo\obj\Debug\net7.0\BotigaCistellaPoo.pdb
+C:\Users\JEAG\Documents\IES_MONTILIVI\MP03\botiga_i_ciistella_POO\Botiga_i_Cistella_Poo\BotigaCistellaPoo\BotigaCistellaPoo\obj\Debug\net7.0\BotigaCistellaPoo.genruntimeconfig.cache
+C:\Users\JEAG\Documents\IES_MONTILIVI\MP03\botiga_i_ciistella_POO\Botiga_i_Cistella_Poo\BotigaCistellaPoo\BotigaCistellaPoo\obj\Debug\net7.0\ref\BotigaCistellaPoo.dll
