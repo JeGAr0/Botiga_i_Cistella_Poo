@@ -1,8 +1,20 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "Nahrl39Ax0ktAYAgTUamA+lFucHurs2uNWbXxkNPnrF+E3aO9jMzcdTOnxFukpHgaSZpxL/JvJypOh0JABIGJw==",
   "success": true,
   "projectFilePath": "C:\\Users\\JEAG\\Documents\\IES_MONTILIVI\\MP03\\botiga_i_ciistella_POO\\BotigaCistellaPoo\\BotigaCistellaPoo\\BotigaCistellaPoo.csproj",
   "expectedPackageFiles": [],
+=======
+  "dgSpecHash": "yH5xXl69Z+QZkrB+liEqdHbR0b4sRa3kYUh36DHX6cqG/QSIYEJCmTXMmEWe7NV0Muu3mRBjZAqEVVC1GS2IFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JEAG\\Documents\\IES_MONTILIVI\\MP03\\botiga_i_ciistella_POO\\Botiga_i_Cistella_Poo\\BotigaCistellaPoo\\BotigaCistellaPoo\\BotigaCistellaPoo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JEAG\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\JEAG\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\JEAG\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\JEAG\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
+>>>>>>> Develop
   "logs": []
 }

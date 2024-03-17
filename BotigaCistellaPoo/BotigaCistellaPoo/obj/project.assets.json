@@ -14,11 +14,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\JEAG\\Documents\\IES_MONTILIVI\\MP03\\botiga_i_ciistella_POO\\BotigaCistellaPoo\\BotigaCistellaPoo\\BotigaCistellaPoo.csproj",
       "projectName": "BotigaCistellaPoo",
       "projectPath": "C:\\Users\\JEAG\\Documents\\IES_MONTILIVI\\MP03\\botiga_i_ciistella_POO\\BotigaCistellaPoo\\BotigaCistellaPoo\\BotigaCistellaPoo.csproj",
       "packagesPath": "C:\\Users\\JEAG\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\JEAG\\Documents\\IES_MONTILIVI\\MP03\\botiga_i_ciistella_POO\\BotigaCistellaPoo\\BotigaCistellaPoo\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\JEAG\\Documents\\IES_MONTILIVI\\MP03\\botiga_i_ciistella_POO\\Botiga_i_Cistella_Poo\\BotigaCistellaPoo\\BotigaCistellaPoo\\BotigaCistellaPoo.csproj",
+      "projectName": "BotigaCistellaPoo",
+      "projectPath": "C:\\Users\\JEAG\\Documents\\IES_MONTILIVI\\MP03\\botiga_i_ciistella_POO\\Botiga_i_Cistella_Poo\\BotigaCistellaPoo\\BotigaCistellaPoo\\BotigaCistellaPoo.csproj",
+      "packagesPath": "C:\\Users\\JEAG\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\JEAG\\Documents\\IES_MONTILIVI\\MP03\\botiga_i_ciistella_POO\\Botiga_i_Cistella_Poo\\BotigaCistellaPoo\\BotigaCistellaPoo\\obj\\",
+>>>>>>> Develop
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,6 +41,10 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+<<<<<<< HEAD
+=======
+        "C:\\Program Files\\dotnet\\library-packs": {},
+>>>>>>> Develop
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -45,6 +57,14 @@
         "warnAsError": [
           "NU1605"
         ]
+<<<<<<< HEAD
+=======
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+>>>>>>> Develop
       }
     },
     "frameworks": {
@@ -61,12 +81,37 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+<<<<<<< HEAD
+=======
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.16, 7.0.16]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[7.0.16, 7.0.16]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.16, 7.0.16]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.16, 7.0.16]"
+          }
+        ],
+>>>>>>> Develop
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+>>>>>>> Develop
       }
     }
   }

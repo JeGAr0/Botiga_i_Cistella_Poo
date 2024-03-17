@@ -11,16 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("BotigaCistellaPoo")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ClassProducte")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed2900ea24eab1d02e8c44a782a5488f5e2bbb36")]
->>>>>>> Develop
-[assembly: System.Reflection.AssemblyProductAttribute("BotigaCistellaPoo")]
-[assembly: System.Reflection.AssemblyTitleAttribute("BotigaCistellaPoo")]
+[assembly: System.Reflection.AssemblyProductAttribute("ClassProducte")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ClassProducte")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
